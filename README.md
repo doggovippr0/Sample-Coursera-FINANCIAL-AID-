@@ -31,4 +31,4 @@ Các bạn nhớ tick vào NO ở ô chọn YES OR NO này, tức là bạn khô
 I don’t have enough money to invest in my education, I can invest only my time now. An additional amount of interest expense and stress of bearing debt is really a matter to me right now.
 
 Covid-19 makes it’s really difficult to a low-income person like me to make a living.
-*Có thể thay Covid-19 bằng bất cứ lý do gì khiến bạn nghèo.
+*Có thể thay Covid-19 bằng bất cứ lý do gì khiến bạn nghèo.*
