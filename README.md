@@ -1,8 +1,8 @@
 # 🔥 CÁCH VIẾT ĐƠN XIN HỌC BỔNG COURSERA MIỄN PHÍ 🔥
 
-## Bước 1: Các bạn click vào dòng “Financial aid available” bên cạnh nút Enroll
+## Bước 1: Các bạn click vào dòng “Financial aid available” bên cạnh nút Enroll ##
 <img src = "https://imgur.com/DgZb82j">
-## Bước 2: Sau đó thì hộp thoại này sẽ hiện ra, click tiếp vào dòng “Continue to the application” 
+## Bước 2: Sau đó thì hộp thoại này sẽ hiện ra, click tiếp vào dòng “Continue to the application” ##
 <img src = "https://cdn.ivolunteervietnam.com/wp-content/uploads/2021/07/26094024/223125794_324179769129857_3267521119492771409_n.jpg">
 ## Bước 3: Xác nhận thông tin như trong ảnh rồi nhấn “Continue”
 <img src = "https://cdn.ivolunteervietnam.com/wp-content/uploads/2021/07/26094023/216426533_324179775796523_4030244886338074403_n.jpg">
