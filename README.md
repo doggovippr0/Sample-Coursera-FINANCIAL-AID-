@@ -1,14 +1,18 @@
 # 🔥 CÁCH VIẾT ĐƠN XIN HỌC BỔNG COURSERA MIỄN PHÍ 🔥
 =====
-# Bước 1: Các bạn click vào dòng “Financial aid available” bên cạnh nút Enroll 
+## Bước 1: Các bạn click vào dòng “Financial aid available” bên cạnh nút Enroll 
 <img src = "https://i.imgur.com/DgZb82j.png">
-# Bước 2: Sau đó thì hộp thoại này sẽ hiện ra, click tiếp vào dòng “Continue to the application” 
+
+## Bước 2: Sau đó thì hộp thoại này sẽ hiện ra, click tiếp vào dòng “Continue to the application” 
 <img src = "https://cdn.ivolunteervietnam.com/wp-content/uploads/2021/07/26094024/223125794_324179769129857_3267521119492771409_n.jpg">
-# Bước 3: Xác nhận thông tin như trong ảnh rồi nhấn “Continue”
+
+## Bước 3: Xác nhận thông tin như trong ảnh rồi nhấn “Continue”
 <img src = "https://cdn.ivolunteervietnam.com/wp-content/uploads/2021/07/26094023/216426533_324179775796523_4030244886338074403_n.jpg">
-# Bước 4: Đến phần “Background information” thì các bạn điền thông tin như trong hình nhé
+
+## Bước 4: Đến phần “Background information” thì các bạn điền thông tin như trong hình nhé
 <img src = "https://cdn.ivolunteervietnam.com/wp-content/uploads/2021/07/26094251/217578875_324179865796514_7723955443087358651_n-1-768x406.jpg">
-# Bước 5: Áp dụng văn mẫu của mình
+
+## Bước 5: Áp dụng văn mẫu của mình
 Ở đây, chúng mình cần trả lời tổng cộng 3 câu hỏi từ Coursera:
 
 *Câu 1: Why are you applying for Financial Aid?*
