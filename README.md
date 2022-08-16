@@ -27,8 +27,10 @@ During my studies, I will commit to study fully, on schedule, and meet deadlines
 
 **Câu 3: Would you consider using a low-interest loan to pay for your courses?**
 
-*Các bạn nhớ tick vào NO ở ô chọn YES OR NO này, tức là bạn không chấp nhận khoảng vay tro khóa học.
-I don’t have enough money to invest in my education, I can invest only my time now. An additional amount of interest expense and stress of bearing debt is really a matter to me right now.*
+Các bạn nhớ tick vào NO ở ô chọn YES OR NO này, tức là bạn không chấp nhận khoảng vay tro khóa học.
+
+Lý do:
+*I don’t have enough money to invest in my education, I can invest only my time now. An additional amount of interest expense and stress of bearing debt is really a matter to me right now.*
 
 *Covid-19 makes it’s really difficult to a low-income person like me to make a living.*
 
