@@ -1,4 +1,4 @@
-# 🔥 CÁCH VIẾT ĐƠN XIN HỌC BỔNG COURSERA MIỄN PHÍ 🔥
+# 🔥 VĂN MẪU ĐƠN XIN HỌC BỔNG COURSERA MIỄN PHÍ 🔥
 ==========================================================
 ## Bước 1: Click vào dòng “Financial aid available” bên cạnh nút Enroll 
 <img src = "https://i.imgur.com/DgZb82j.png">
